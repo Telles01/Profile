@@ -17,6 +17,9 @@ body {
   margin-bottom: 20px; /* Adiciona espaço abaixo do título */
 
 }
+h2 {
+  color:#333
+}
 
 .card-white h1 {
   font-size: 32px;
